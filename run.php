@@ -3,17 +3,6 @@
 
 include 'login.php';
 
-
-
-			
-	// include 'data.php';
-
-			
-			
-			// $data = 'nickName=Hacker';
-
-
-
  	set_time_limit(0);
   	error_reporting(0);
   	date_default_timezone_set('Asia/Jakarta');
